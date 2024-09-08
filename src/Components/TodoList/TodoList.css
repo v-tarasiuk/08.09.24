@@ -1,0 +1,11 @@
+.TodoList {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(191, 255, 0);  
+}
+
+.TodoList .inputPanel  {
+    margin: 40px;
+}
